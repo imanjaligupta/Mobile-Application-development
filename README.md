@@ -8,3 +8,9 @@
              Understand and implement Android's User interface functions.
              Create, modify and query on SQlite database.
              Inspect different methods of sharing data using services.
+             
+                  Learning Resources
+                  
+             https://kotlinlang.org/docs/kotlin-pdf.html     Kotlin documentation
+             https://www.youtube.com/user        Android developers
+             
