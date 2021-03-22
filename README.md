@@ -1,5 +1,5 @@
 # Mobile-Application-development
-                          (Effective from the academic year 2018 -2019)
+                          (Effective from the academic year 2020-21)
                                      SEMESTER – VI
                            Course Code : 18CSMP68
                          
@@ -9,6 +9,5 @@
              ConfigureAndroid studio to run the applications.
              Understand and implement Android's User interface functions.
              Create, modify and query on SQlite database.
-             Inspect different methods of sharing data using services.
-             
-                 
+             Inspect different methods of sharing data using services.          
+                
